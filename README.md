@@ -22,3 +22,4 @@ T-Rex Chrome Dino Game 即 谷歌小恐龙<br>这是一个著名的Chrome离线�
 
 遵循 BSD v3 开源协议
 
+至此 致敬 Chromium 开发者
