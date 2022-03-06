@@ -16,9 +16,7 @@ T-Rex Chrome Dino Game 即 谷歌小恐龙<br>这是一个著名的Chrome离线�
 
 # 来源
 
----
-
-<img src=".\T-Rex Chrome Dino Game 来源.jpg" alt="来源" style="zoom:200%;" />
+![Dino 来源](https://worldhim.github.io/dino/Dino.jpg)
 
 ---
 
