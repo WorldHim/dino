@@ -14,7 +14,11 @@ dino 页面克隆于 [gitee-tczmh的dino项目](https://gitee.com/tczmh/dino)
 
 T-Rex Chrome Dino Game 即 谷歌小恐龙<br>这是一个著名的Chrome离线彩蛋<br>可以通过~~拔网线~~或在Chrome浏览器中输入 **chrome://dino** 打开<br>
 
+# 来源
 
+---
+
+<img src=".\T-Rex Chrome Dino Game 来源.jpg" alt="来源" style="zoom:200%;" />
 
 ---
 
