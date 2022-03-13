@@ -20,7 +20,7 @@
 
 ---
 
-# [在线演示](https://worldhim.github.com/dino) [常用控制台命令](https://worldhim.github.io/dino/Commands.md)
+# [在线演示](https://worldhim.github.com/dino) [常用控制台命令](https://github.com/WorldHim/dino/blob/gh-pages/Commands.md)
 
 ---
 
